@@ -17,5 +17,14 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="colorTextIcons">#FFFFFFFF</color>
+    <color name="orange">#FF5722</color>
+    <color name="orange_200">#FF5722</color>
+    <color name="grey">#727272</color>
+    <color name="colorDivider">#B6B6B6</color>
+    <color name="colorPrimaryLight">#FFCCBC</color>
+    <color name="colorPrimaryText">#212121</color>
+
+
+
 
 </resources>
